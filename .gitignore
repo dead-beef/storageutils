@@ -1,0 +1,6 @@
+/build/*
+/libs
+/res
+/local.properties
+/project.properties
+!/build/storageutils.jar

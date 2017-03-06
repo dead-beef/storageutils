@@ -1,0 +1,5 @@
+# storageutils
+
+## Licenses
+
+* [`storageutils`](LICENSE)
