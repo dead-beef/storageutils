@@ -47,9 +47,9 @@ public class Storage {
 	public static int getRootIndex() { return mRootIdx; }
 	public static String[] getRootList() { return mRootList; }
 
-	public static void setType(String type) {
+	public static void setContext(Context ctx, String type) {
 		mType = type;
-		//setContext(mContext);
+		setContext(ctx);
 	}
 
 	public static void setContext(Context ctx) {
